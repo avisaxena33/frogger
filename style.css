@@ -1,0 +1,26 @@
+body
+{
+    background-image: url(gg.jpg);
+}
+
+#hearts
+{
+    font-family: monospace;
+    font-size: 36px;
+    color: red;
+}
+
+#wins
+{
+    font-family: monospace;
+    font-size: 36px;
+    color: red;
+}
+
+#swaggyp
+{
+    text-align: center;
+    font-family: monospace;
+    font-size: 60px;
+    color: red;
+}
